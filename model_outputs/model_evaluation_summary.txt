@@ -1,0 +1,39 @@
+
+MODEL EVALUATION SUMMARY
+========================
+
+Selected Model:
+Random Forest
+
+Test Dataset:
+9043 customers
+
+Accuracy:
+0.8807
+
+Precision:
+0.4883
+
+Recall:
+0.4130
+
+F1 Score:
+0.4475
+
+ROC-AUC:
+0.7913
+
+Confusion Matrix:
+[[7527  458]
+ [ 621  437]]
+
+Business Interpretation:
+The model is evaluated based on its ability to identify
+customers who are likely to subscribe to the term deposit.
+
+Because the target variable is imbalanced, F1-score,
+precision, recall and ROC-AUC are considered along with
+accuracy.
+
+The model can help the bank identify customers who are
+more likely to respond positively to marketing campaigns.

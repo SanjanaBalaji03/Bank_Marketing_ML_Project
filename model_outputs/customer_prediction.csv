@@ -1,0 +1,2 @@
+age,job,marital,education,balance,housing,loan,contact,campaign,pdays,previous,poutcome,subscription_probability,prediction,priority
+35,management,married,tertiary,1500.0,yes,no,cellular,1,-1,0,unknown,31.0,No,LOW PRIORITY

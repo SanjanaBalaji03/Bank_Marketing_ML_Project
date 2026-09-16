@@ -1,0 +1,21 @@
+BANK MARKETING - FEATURE ENGINEERING PLAN
+==================================================
+
+Purpose:
+Create meaningful derived variables that can help the machine learning model identify customer segments and marketing response patterns.
+
+ENGINEERED FEATURES
+------------------------------
+1. age_group - Groups customers by age.
+2. balance_group - Groups customers according to account balance.
+3. campaign_group - Groups customers based on the number of contacts during the current campaign.
+4. previous_contacted - Indicates whether the customer was contacted in a previous campaign.
+5. pdays_group - Groups customers according to the time since the previous contact.
+6. previous_contacts_group - Groups customers according to the number of previous contacts.
+7. contact_month - Keeps the campaign month as a marketing-related categorical feature.
+
+IMPORTANT MODELING NOTE
+------------------------------
+The duration variable was excluded during preprocessing because it is only known after the customer interaction and could cause data leakage in a pre-contact prediction model.
+
+The engineered features will be evaluated during model development based on their predictive usefulness.

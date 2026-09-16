@@ -1,0 +1,35 @@
+
+MODEL INTERPRETATION SUMMARY
+============================
+
+Model:
+Random Forest
+
+Purpose:
+Identify which customer characteristics are most important
+for predicting term-deposit subscription.
+
+Top Important Features:
+
+1. numerical__balance: 0.1619
+2. numerical__age: 0.1403
+3. numerical__day: 0.1225
+4. numerical__campaign: 0.0679
+5. numerical__pdays: 0.0405
+6. categorical__poutcome_success: 0.0342
+7. categorical__contact_unknown: 0.0266
+8. numerical__previous: 0.0223
+9. categorical__housing_no: 0.0175
+10. categorical__housing_yes: 0.0175
+
+Business Interpretation:
+Feature importance indicates how strongly each feature
+contributes to the Random Forest's predictions.
+
+The most important features can be used by the bank to
+better understand customer response patterns and design
+more targeted marketing campaigns.
+
+Feature importance does NOT mean that a feature directly
+causes subscription. It indicates its contribution to
+the model's predictions.

@@ -1,0 +1,30 @@
+BANK MARKETING MODEL TRAINING SUMMARY
+==================================================
+
+MODELS TRAINED
+-------------------------
+1. Logistic Regression
+2. Random Forest
+
+MODEL PERFORMANCE
+-------------------------
+
+Logistic Regression
+Accuracy: 0.7548
+Precision: 0.2662
+Recall: 0.6238
+F1 Score: 0.3732
+ROC-AUC: 0.7722
+
+Random Forest
+Accuracy: 0.8807
+Precision: 0.4883
+Recall: 0.4130
+F1 Score: 0.4475
+ROC-AUC: 0.7913
+
+BEST MODEL
+-------------------------
+Selected model: Random Forest
+
+Model selection was based primarily on F1 Score because the target variable is imbalanced.

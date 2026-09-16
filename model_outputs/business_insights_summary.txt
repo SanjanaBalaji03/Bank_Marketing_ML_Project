@@ -1,0 +1,22 @@
+BANK MARKETING ML PROJECT - BUSINESS INSIGHTS
+=======================================================
+
+Total customers: 45211
+Subscribed customers: 5289
+Subscription rate: 11.70%
+
+CUSTOMER PROFILE
+------------------------------
+Average age: 40.94
+Average balance: 1362.27
+Average campaign contacts: 2.76
+Average previous contacts: 0.58
+
+BUSINESS RECOMMENDATIONS
+------------------------------
+1. Focus campaigns on customers with higher historical subscription rates.
+2. Prioritize the cellular contact channel.
+3. Give greater attention to the tertiary education segment.
+4. Consider the student segment for targeted campaigns.
+5. Use Random Forest prediction probabilities for customer prioritization.
+6. Allocate marketing resources based on predicted customer response.

@@ -1,0 +1,39 @@
+BANK MARKETING CAMPAIGN - EDA ANALYSIS SUMMARY
+=======================================================
+
+1. OVERALL SUBSCRIPTION
+------------------------------
+Total customers: 45211
+Customers subscribed: 5289
+Overall subscription rate: 11.70%
+
+2. TOP-PERFORMING CUSTOMER SEGMENTS
+----------------------------------------
+Job: student (28.68% subscription)
+Marital: single (14.95% subscription)
+Education: tertiary (15.01% subscription)
+Default: no (11.80% subscription)
+Housing: no (16.70% subscription)
+Loan: no (12.66% subscription)
+Contact: cellular (14.92% subscription)
+Month: mar (51.99% subscription)
+Poutcome: success (64.73% subscription)
+
+3. KEY BUSINESS INSIGHTS
+------------------------------
+1. The overall subscription rate is 11.70%, showing that the marketing campaign has a relatively small share of customers converting.
+2. The student customer segment has the highest subscription rate among job categories (28.68%).
+3. The tertiary education group shows the highest subscription rate (15.01%).
+4. The cellular contact method has the highest subscription rate (14.92%).
+5. Customers with housing status 'no' show the higher subscription rate (16.70%).
+6. Customers with personal-loan status 'no' have the highest subscription rate (12.66%).
+7. Customers with previous campaign outcome 'success' have the highest subscription rate (64.73%).
+
+4. BUSINESS RECOMMENDATIONS
+-----------------------------------
+1. Focus future campaigns on customer segments with higher historical subscription rates.
+2. Give greater attention to the cellular contact channel because it shows the strongest subscription rate.
+3. Prioritize the student customer segment when designing targeted marketing campaigns.
+4. Use customer education level as a segmentation variable, with tertiary showing the strongest historical response.
+5. Use previous campaign outcomes to identify customers who are more likely to respond positively.
+6. Avoid treating all customers the same; use customer characteristics to create targeted marketing campaigns.
